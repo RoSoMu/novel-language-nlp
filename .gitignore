@@ -2,6 +2,10 @@
 data/raw/*
 !data/raw/README.md
 
+# Private processed corpus
+data/processed/*
+!data/processed/README.md
+
 # Python
 __pycache__/
 *.py[cod]
@@ -21,3 +25,4 @@ env/
 # Environment variables and secrets
 .env
 .env.*
+
