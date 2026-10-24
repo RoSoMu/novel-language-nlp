@@ -47,6 +47,10 @@ Each exchange contains a user prompt and an assistant response.
 
 The original conversations have been extracted, structured, preprocessed and validated. Raw and processed conversational data are excluded from version control.
 
+A reader-friendly version of the ten selected conversational exchanges is available in the [Adapted Exchange Guide](docs/corpus/adapted_exchanges.md). The guide includes contextual information and linguistic observations illustrating how creative expressions are introduced, reused and extended throughout the conversations.
+
+The excerpts have been edited for readability and discretion. They are intended to make the linguistic phenomena accessible to readers and are not used as the analytical corpus. Computational analyses use the separately preserved conversational data.
+
 ## Current Progress
 
 **Completed**
