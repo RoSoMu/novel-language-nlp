@@ -6,7 +6,7 @@
 
 These ten exchanges are **edited, reader-friendly adaptations** of selected conversations about reconstructing a psycholinguistic experiment. They illustrate how *Frankenstein* and related expressions were used, reused, extended, and discussed in context. The exchanges are not a complete chronological history of the conversations.
 
-The **private analytical corpus remains unchanged** and is the source for computational experiments. This guide is **not experimental input**: excerpts have been shortened and lightly edited for clarity, discretion, and readability, including removal of identifying terminal details and some coarse language. Titles and contextual descriptions are editorial additions. The exchanges do not, on their own, establish how any language model internally interprets or generates figurative language.
+The adapted speaker excerpts in this guide correspond to the **public analytical corpus** (`data/public/conversations_adapted.json`) used for the computational experiments. The original conversational excerpts remain private and are not required to run the published analyses. Excerpts have been selected, shortened and lightly edited for clarity, discretion and readability, including removal of identifying terminal details and some coarse language. Titles, context descriptions and linguistic observations are editorial additions and are **not included in the computational input**. These exchanges do not, on their own, establish how any language model internally interprets or generates figurative language.
 
 ---
 
@@ -99,6 +99,8 @@ The **private analytical corpus remains unchanged** and is the source for comput
 > THE ZOMBIE ROADMAP HAS RISEN AGAIN! 🧟‍♀️📜
 >
 > After what we've done, this is tiny surgery. No new intellectual work. It's repository plumbing.
+>
+> And actually, this gives the zombie-guide a better ending because it can finally explain the Frankensteining-Unicorning logic rather than merely listing notebook numbers:
 >
 > **Frankensteining:** Reconstruct the original experiment, preserve the messy behavioural anatomy, separate questions that shouldn't be averaged together, and build an auditable analytical path.
 >
@@ -365,4 +367,4 @@ The exchange illustrates how creative vocabulary can move beyond its original de
 
 ## Reading across the exchanges
 
-These excerpts illustrate **syntactic productivity** (verbs, modifiers, compounds and names), **semantic and figurative extension** (analytical reconstruction, processes, spaces and imagined institutions), and **metalinguistic elaboration** (explicit definitions, a proposed guide and a fictional faculty). They are selected observations, not a claim that the ten exchanges exhaust the development of the vocabulary or establish a universal sequence. Computational analysis should use the unmodified private corpus, not this adapted guide.
+These excerpts illustrate **syntactic productivity** (verbs, modifiers, compounds and names), **semantic and figurative extension** (analytical reconstruction, processes, spaces and imagined institutions), and **metalinguistic elaboration** (explicit definitions, a proposed guide and a fictional faculty). They are selected observations, not a claim that the ten exchanges exhaust the development of the vocabulary or establish a universal sequence. Computational analysis uses the corresponding public adapted JSON dataset; the original private excerpts are not the published experimental input.
