@@ -1,0 +1,67 @@
+exchange_id,speaker,left_context,form,right_context,construction,syntactic_function,semantic_reference,discourse_function,preceding_user_lexical_cue,contextual_semantic_cue,cue_evidence
+EX001,user,"actually pruned a lot of it, made Russian dolls with it, but then we decided to ",Frankenstein," it. And it worked, and it was epic!
+
+OK, I need lunch and a shower, amigo. But ",Frankenstein it,Transitive verb,Reconstruction of a complex analytical model,Introduction of a playful metaphor for model reconstruction,,,
+EX002,assistant,"d every artefact and apparently cleaned 39 notebooks!
+
+The analysis exists. The ",Frankenstein," architecture makes sense.
+
+Last time you had a thought, we ended up constructin",Frankenstein architecture,Noun modifier,Reconstructed structure of the analytical model,Reuse and extension of the established metaphor to describe the model's organisation,False,Present,The paired user excerpt does not contain a Frankenstein-family expression; the assistant applies the established reconstruction metaphor to the analytical model's architecture
+EX003,user,siones' unicorning in environmentally friendly rainbow conditions after serious ,frankensteining,", translated into human lingo, basically. 🌈😁 That's what we need to do!
+
+And the",after serious frankensteining,Nominal -ing form; head of a noun phrase,The analytical reconstruction process,Characterisation of the analytical work as an intensive process preceding the final synthesis,,,
+EX003,assistant," sentences back.
+
+Environmentally friendly rainbow unicorning after responsible ",Frankenstein, disposal. 🌈🦄♻️,after responsible Frankenstein disposal,Attributive noun modifier,"Completion and management of the messy analytical reconstruction process, keeping its unnecessary complexity out of the reader-facing synthesis","Constructional transformation of the user's metaphor, introducing a waste-management frame that connects the completed analytical work with the final synthesis",True,Present,User's 'after serious frankensteining' and 'environmentally-friendly rainbow conditions'; assistant extends the process metaphor through 'responsible Frankenstein disposal'
+EX004,user, I need to change the zombie roadmap that turned into a guide to explaining the ,frankensteining," and the unicorning, because of the finalísimo's numbering before the appendices",explaining the frankensteining and the unicorning,Nominal -ing form; head of a coordinated noun phrase,The analytical reconstruction and modelling process documented in the modelling notebooks and appendices,Identification of a process that the reader-facing guide needs to explain,,,
+EX004,assistant, this gives the zombie-guide a better ending because it can finally explain the ,Frankensteining-Unicorning," logic rather than merely listing notebook numbers:
+
+Frankensteining: Reconstruc",the Frankensteining-Unicorning logic,Hyphenated compound premodifier of the noun 'logic',The established analytical reconstruction process as the first stage of the workflow,Explicit representation of the established sequence from analytical reconstruction to findings synthesis,True,Present,User explicitly mentions frankensteining and unicorning and explains the need to update the guide after introducing the final synthesis notebook
+EX004,assistant," Frankensteining-Unicorning logic rather than merely listing notebook numbers:
+
+",Frankensteining,": Reconstruct the original experiment, preserve the messy behavioural anatomy, s",Frankensteining: reconstruct the original experiment...,Nominal -ing form; metalinguistic entry label,"The established process of experimental reconstruction, statistical analysis and development of an auditable analytical workflow",Metalinguistic clarification of an established analytical process to support the organisation of the notebook guide,True,Present,User identifies the need to revise the guide's explanation of the analytical sequence following the introduction of the final synthesis notebook
+EX005,assistant,"'re allowed to notice it. You're not allowed to follow it into the forest.
+
+The ",Frankenstein, phase took four months because we didn't know what the creature looked like. No,Frankenstein phase,Attributive noun modifier of the head noun 'phase',The completed intensive analytical reconstruction and modelling stage of the project,"Contrasts the demanding construction stage with the remaining editing work, providing reassurance about the project's progress",False,Present,"User returns to a four-month project, expresses concern about the remaining work, and discusses the transition from construction to editing; no explicit Frankenstein expression appears in the paired user excerpt"
+EX006,assistant,".
+
+And we'd end up back where we started:
+
+“According to the multimodel omnibus ",super-Frankenstein,", Agency has an average coefficient of 0.1837—”
+
+CHEAP FOR WHAT?
+
+CHEAP FOR WHOM",omnibus super-Frankenstein,Prefixed nominal form; head of a noun phrase premodified by 'omnibus',"A hypothetical multiclass classifier intended to model three response categories within a single framework, as an alternative to the established two-stage binary classification approach","Humorous intensification of the established Frankenstein metaphor, acknowledging the complexity and anticipated difficulty of constructing an alternative model",False,Present,User proposes trying a multiclass classifier after completing the two-stage modelling approach and jokes that the hypothetical model might explode or refuse to cooperate
+EX007,assistant,"5 notebooks staring at us menacingly: unfortunately also ✅
+
+Welcome back to the ",Frankenstein," lab, amigo. 😂",the Frankenstein lab,Attributive noun modifier of the head noun 'lab',The shared computational working environment where the psycholinguistic experiment was reconstructed,Personalised welcome-back formula that re-establishes the shared working environment and marks the resumption of the project after a break,False,Present,User confirms that Git and the computational environment are functioning; assistant summarises technical readiness and invokes the established laboratory metaphor to welcome the user back to the project
+EX008,assistant,"ortunity/escape and resolution destination.
+
+So even the old title survives the ",Frankenstein," procedure rather well.
+
+Right then.
+
+`00_intro.ipynb` it is.
+
+And I suggest we ",the whole Frankenstein procedure,Attributive noun modifier of the head noun 'procedure',"The extensive reconstruction, revision and modelling of the original Master's experiment, including the reassessment and disposal of unsuccessful components",Invokes the demanding shared reconstruction process as a basis for evaluating whether the original thesis title remains appropriate for the revised project,False,Present,User presents the original Master's thesis title and asks whether it remains suitable for the current project. The assistant draws on the history of reconstruction and modelling to assess whether the title has survived the project's transformation; no explicit Frankenstein expression appears in the paired user excerpt
+EX009,user,"o a book and give it a title like:
+
+Chatty and Mari O Killed Edward: A Guide to ",Frankensteining," and Unicorning.
+
+Then I'd send him a copy. I think he'd appreciate the teasing.",A Guide to Frankensteining and Unicorning,Nominalised -ing form within a coordinated phrase functioning as the complement of the preposition 'to',"The established analytical reconstruction and modelling process, presented as the subject matter of an imaginary guide",Introduces a humorous fictional book title that transforms the shared project experience into the subject of a practical guide,,Present,"User jokes about printing the conversation as a guide after extensive reconstruction and modelling work, using 'Frankensteining' as part of the proposed title"
+EX009,assistant,"eoretical justification.
+
+Chatty and Mari O Killed Edward
+
+A Practical Guide to ",Frankensteining,", Unicorning, and Asking CHEAP FOR WHAT?
+
+Foreword by Parsimoños.
+
+Statistical a","A Practical Guide to Frankensteining, Unicorning, and Asking CHEAP FOR WHAT?",Nominalised -ing form within a coordinated phrase functioning as the complement of the preposition 'to',"The established analytical reconstruction and modelling process, presented as the subject matter of an imaginary guide","Reuses and expands the user's fictional guide title, incorporating shared expressions and characters to extend the collaborative humour",True,Present,"User proposes 'Chatty and Mari O Killed Edward: A Guide to Frankensteining and Unicorning'. Assistant retains 'Frankensteining', expands the coordinated title, and adds references to other established fictional characters"
+EX010,assistant,"t.
+
+Dean Mari O, presiding over the newly established Faculty of Counterfactual ",Frankensteining," and Applied Gibberishonian Studies. 😂
+
+Tomorrow: EL FINALÍSIMO. 🦄🌈🎤
+
+Tonight: a",Faculty of Counterfactual Frankensteining and Applied Gibberishonian Studies,Nominalised -ing head modified by 'Counterfactual'; part of a coordinated noun phrase functioning as the complement of the preposition 'of',"The established reconstruction and modelling process, recast as a fictional academic discipline associated with counterfactual research",Elaborates on the user's humorous claim to the title of Dean by inventing an academic faculty named after the shared project and its established vocabulary,False,Present,User jokes about becoming Dean after an earlier reference to the Dean's List. Assistant invents a fictional academic faculty combining the established Frankensteining metaphor with the project's counterfactual subject matter; no explicit Frankenstein-family expression appears in the paired user excerpt
