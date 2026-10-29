@@ -27,4 +27,3 @@ env/
 .env.*
 
 # Private working notebook
-notebooks/01_corpus_inspection.ipynb
