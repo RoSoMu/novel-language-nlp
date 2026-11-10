@@ -26,4 +26,6 @@ env/
 .env
 .env.*
 
-# Private working notebook
+# Private POS tagging and NER exploration
+notebooks/06_pos_ner_exploration.ipynb
+
